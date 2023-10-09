@@ -1,1 +1,1 @@
-"# Wordle-based-applications" 
+"Wordle-based-applications" 
